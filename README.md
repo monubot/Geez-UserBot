@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./resources/extras/geez.gif" width="35px">GEEZ PROJECTS<img src="./resources/extras/geez.gif" width="35px"></h1>
+<h1 align="center"><img src="./resources/extras/geez.gif" width="35px">MON-BOT<img src="./resources/extras/geez.gif" width="35px"></h1>
 
 <p align="center">
     <a href="https://github.com/vckyou/Geez-UserBot/commits/Geez-UserBot"><img src="https://img.shields.io/github/last-commit/vckyou/Geez-UserBot?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
@@ -11,8 +11,6 @@
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.6-white?style=for-the-badge&logo=appveyor"/>
     <a href="https://hub.docker.com/r/vckyouuu/geezprojects"> <img src="https://img.shields.io/docker/image-size/vckyouuu/geezprojects/buster?label=docker%20image%20size&logo=docker&style=for-the-badge" /></a>
     <a href="https://hub.docker.com/r/vckyouuu/geezprojects/buster"> <img src="https://img.shields.io/docker/v/vckyouuu/geezprojects/buster?label=docker%20version&logo=docker&style=for-the-badge" /></a>
-    <a href="https://t.me/GeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group1%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>
-    <a href="https://t.me/VcgSupportGroup"><img src="https://img.shields.io/badge/Join-Group2%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>
     </p>
 
 
