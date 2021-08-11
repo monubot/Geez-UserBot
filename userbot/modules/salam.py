@@ -93,8 +93,8 @@ async def typewriter(typew):
 
 CMD_HELP.update({
     "salam":
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.P` | `.p`\
-\n↳ : Untuk Memberi salam.\
-\n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.L` `.l`\
-\n↳ : Untuk Menjawab Salam."
+    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.p` | `.pe` | `.P` | `.m` | `.cw` | `.ba` | `.pt` | `.bs`\
+\n↳ : Untuk Memberi salam dan lainnya.\
+\n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.L` | `.l` | `.bad` | `.bd` | `.bt` | `.po` | `.tn`\
+\n↳ : Untuk Menjawab Salam dan lainnya."
 })
